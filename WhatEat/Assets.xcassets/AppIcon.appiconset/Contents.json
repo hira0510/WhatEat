@@ -1,0 +1,62 @@
+{
+  "images" : [
+    {
+      "filename" : "Lovepik_com-500365308-food-background-material-for-cereals拷貝-8.jpg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "Lovepik_com-500365308-food-background-material-for-cereals拷貝-6.jpg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "Lovepik_com-500365308-food-background-material-for-cereals拷貝-7.jpg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "Lovepik_com-500365308-food-background-material-for-cereals拷貝-4.jpg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "Lovepik_com-500365308-food-background-material-for-cereals拷貝-5.jpg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "Lovepik_com-500365308-food-background-material-for-cereals拷貝-2.jpg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "Lovepik_com-500365308-food-background-material-for-cereals拷貝-3.jpg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "Lovepik_com-500365308-food-background-material-for-cereals拷貝-1.jpg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "Lovepik_com-500365308-food-background-material-for-cereals拷貝.jpg",
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
